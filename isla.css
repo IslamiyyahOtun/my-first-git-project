@@ -1,0 +1,18 @@
+body{background-image: url(mhiz$yeesh.jpg);
+background-size: 40cm;
+background-repeat: no-repeat;
+background-attachment: fixed;}
+
+h1{color: blue;
+display: ruby-text-container;
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;}
+
+h3{color: darkmagenta;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 900;
+font-size: 01cm;}
+button{
+    background-color: fuchsia;
+}
